@@ -3,8 +3,6 @@
 **ACTIVIDADES DESARROLLADAS**
 **Creación del repositorio en GitHub**                                                                                                  
 **RESULTADO(S) OBTENIDO(S)**: Se ha desarrollado una aplicación con tecnología JEE para gestionar una agenda telefónica en la web, se ha aplicado patrones de diseño de software MVC y DAO, en donde, los modelos fueron clases Entity de Java, la vista fue JSP + JSTL y los controladores a través de JPA y Servlets.                                                                                                 
-**CONCLUSIONES**: La implementación de tecnologías actuales en el desarrollo web es muy importante, porque la tecnología avanza muy rápido y no nos podemos quedar atrás, una de estas tecnologías es JEE, que toma más tiempo que otras herramientas, pero se puede decir que ofrece mayor seguridad con filtros y sesiones, así también mediante el uso de patrón de diseño se puede conseguir una mejor organización a nuestra aplicación, sabiendo que tener buenas prácticas es importante al momento de programar A comparación con JDBC, JPA es mucho mas simple y nos evita mucho los problemas que da al momento de hacer las sentencias SQL en JDBC, por eso se ha llegado a la conclusión de que es mucho mejor utilizar JPA, así como lo que no ofrece, como Criteria, que fue utilizado al momento de listar los elementos de una entidad 
-**RECOMENDACIONES**: Aplicar conceptos de interacción humano máquina para el desarrollo de la GUI. Utilizar JPA por encima de JDBC
 
 ![](media/7fa2ca9f374eb6acc996c892162a4626.png)
 
@@ -255,4 +253,6 @@ usuario
 
 ![](media/65bb5b1d030d79be044bd6476a872c0d.png)
 
+**CONCLUSIONES**: La implementación de tecnologías actuales en el desarrollo web es muy importante, porque la tecnología avanza muy rápido y no nos podemos quedar atrás, una de estas tecnologías es JEE, que toma más tiempo que otras herramientas, pero se puede decir que ofrece mayor seguridad con filtros y sesiones, así también mediante el uso de patrón de diseño se puede conseguir una mejor organización a nuestra aplicación, sabiendo que tener buenas prácticas es importante al momento de programar A comparación con JDBC, JPA es mucho mas simple y nos evita mucho los problemas que da al momento de hacer las sentencias SQL en JDBC, por eso se ha llegado a la conclusión de que es mucho mejor utilizar JPA, así como lo que no ofrece, como Criteria, que fue utilizado al momento de listar los elementos de una entidad 
+**RECOMENDACIONES**: Aplicar conceptos de interacción humano máquina para el desarrollo de la GUI. Utilizar JPA por encima de JDBC
 
