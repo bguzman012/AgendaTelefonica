@@ -30,6 +30,7 @@ public class ControladorBuscarContacto extends HttpServlet {
 	 */
 	public ControladorBuscarContacto() {
 		ControladorValidacionParametros control = null;
+		
 	}
 
 	/**
